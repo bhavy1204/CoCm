@@ -1,1 +1,1 @@
-const broken = ;
+const broken = "nothing";
